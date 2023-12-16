@@ -1,2 +1,2 @@
 # Repositório para estudos.
- Aqui estão materiais de coisas ques estou aprendendo.☜(ﾟヮﾟ☜)
+ Aqui estão materiais de coisas ques estou aprendendo.:-]
