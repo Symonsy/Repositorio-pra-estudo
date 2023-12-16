@@ -1,2 +1,2 @@
-# Repositorio pra estudo
- testes de coisas ques estou aprendendo
+# Repositório para estudos.
+ Aqui estão materiais de coisas ques estou aprendendo.☜(ﾟヮﾟ☜)
