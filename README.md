@@ -1,6 +1,6 @@
 # Repositório para estudos.
- Aqui estão materiais de coisas ques estou aprendendo.
+## **Aqui estão materiais de coisas que estou aprendendo.**
  
- "A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro".
+   **"*A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro*"**.
  
- Albert Einstein
+Albert Einstein
